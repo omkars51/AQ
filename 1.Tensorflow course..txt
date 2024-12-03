@@ -4,3 +4,4 @@
 4.DS and ML path
 5.SDLC ( Life cycle )
 6.Apache kafka
+7.DSA and Competative Programming
