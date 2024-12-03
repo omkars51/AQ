@@ -1,0 +1,6 @@
+1.Tensorflow course.
+2.Azure AI Engineer Associate
+3.Google cloud  certified Associate cloud engineer.
+4.DS and ML path
+5.SDLC ( Life cycle )
+6.Apache kafka
